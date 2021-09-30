@@ -6,7 +6,9 @@
   - A camada de Controle (**Controller**) é o intermediário entre a tela e o Modelo, para que o código fique desacoplado e cada componente faça somente o que foi feito pra fazer.
   - A camada de Modelo (**Model**) é onde fica a regra de negócios, onde fica a classe do usuário, a classe com os métodos de CRUD, etc.
  
-O SQL foi todo feito usando **PDO** e o CSS todo feito com o framework css **Bulma**
+O SQL foi todo feito usando **PDO**. O arquivo de banco de dados (SQL) está disponível para download junto ao projeto, você pode importar e usar esse banco pronto para testar no projeto.
+
+O CSS todo feito com o framework css **Bulma**
 
 ## Resultado final:
 ### Computador:
